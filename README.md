@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fa-vicky&count_private=true&show_icons=true&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fa-vicky&theme=github_dark"/>
 </div>
 
 <div align="center">
