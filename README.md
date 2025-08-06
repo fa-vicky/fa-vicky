@@ -28,10 +28,11 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fa-vicky&theme=github_dark"/>
 </div>
 
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=fa-vicky&theme=dark"/>
 </div>
-
+-->
 
 ### Activity Graph
 
