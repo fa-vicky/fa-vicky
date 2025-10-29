@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 [![trophy](https://trophygh.kolioaris.xyz/?username=fa-vicky&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,aws,gcp,terraform,kubernetes,cpp,docker,jenkins," />
 </p>
 
-## 📊 GitHub Stats
-<div align="center">
+##  GitHub Stats
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fa-vicky&theme=github_dark"/>
 </div>
 
@@ -35,12 +35,14 @@ Here are some ideas to get you started:
 </div>
 -->
 
+<!--
 ### Activity Graph
 
 [![fa-vicky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fa-vicky&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
+<br>
 
-### Profile Views Counter
 ![Profile Views](https://komarev.com/ghpvc/?username=fa-vicky&color=brightgreen)
 
 
