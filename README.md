@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,gcp,terraform,kubernetes,cpp,docker,jenkins," />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,py,terraform,kubernetes,linux,cpp,go,docker,jenkins,github,gitlab" />
 </p>
 
 ##  GitHub Stats
